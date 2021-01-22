@@ -1,5 +1,4 @@
 'use strict';
-const path = require('path');
 const chalk = require('chalk');
 const maxmin = require('maxmin');
 const luamin = require('luamin');
