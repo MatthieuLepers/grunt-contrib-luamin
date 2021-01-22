@@ -1,5 +1,5 @@
 {
-	"name": "grunt-contrib-cssmin",
+	"name": "grunt-contrib-luamin",
 	"version": "1.0.0",
 	"description": "Minify LUA",
 	"author": "Aire Ayquaza",
