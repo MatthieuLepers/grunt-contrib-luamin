@@ -13,10 +13,10 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-luamin');
 
   grunt.initConfig({
-		pkg: grunt.file.readJSON('package.json'),
+    pkg: grunt.file.readJSON('package.json'),
     luamin: {
-			dist: {
-				files: {
+      dist: {
+        files: {
           'src/example.lua': ['dist/example.lua'],
         },
       },
